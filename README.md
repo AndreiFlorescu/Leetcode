@@ -2,14 +2,14 @@
 This repository contains solution to the problems from www.leetcode.com
 
 ## 844. Backspace String Compare
-28/05/2020
-go backwards to know how many characters to skip.
+28/05/2020 \
+Go backwards to know how many characters to skip.
 
 ## 122. Best Time to Buy and Sell Stock II
 28/05/2020
 
 ## 309. Best Time to Buy and Sell Stock with Cooldown
-27/07/2020
+27/07/2020 \
 Update 10/08/2020 -> reduced the memory space from O(N) to O(1).
 
 ## 70. Climbing Stairs
@@ -28,6 +28,6 @@ Update 10/08/2020 -> reduced the memory space from O(N) to O(1).
 08/05/2020
 
 ## 169. Majority Element
-[c++](C++/169-majority-element.cpp)
-10/08/2020
+[Solution c++](C++/169-majority-element.cpp) \
+10/08/2020 \
 Boyer-Moore Voting Algorithm.
