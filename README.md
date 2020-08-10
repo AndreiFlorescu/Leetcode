@@ -28,5 +28,6 @@ Update 10/08/2020 -> reduced the memory space from O(N) to O(1).
 08/05/2020
 
 ## 169. Majority Element
+[https://github.com/AndreiFlorescu/Leetcode/blob/master/169-majority-element.cpp]
 10/08/2020
 Boyer-Moore Voting Algorithm.
