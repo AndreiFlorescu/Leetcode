@@ -27,6 +27,7 @@ Update 10/08/2020 -> reduced the memory space from O(N) to O(1).
 ## 1009. Complement of Base 10 Integer
 08/05/2020
 
-## [169. Majority Element](Leetcode/169-majority-element.cpp)
+## 169. Majority Element
+[c++](C++/169-majority-element.cpp)
 10/08/2020
 Boyer-Moore Voting Algorithm.
