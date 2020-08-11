@@ -1,5 +1,5 @@
 # Leetcode problems
-This repository contains solution to the problems from www.leetcode.com
+This repository contains solution to the problems from [leetcode](www.leetcode.com).
 
 ## 844. Backspace String Compare
 28/05/2020 \
@@ -39,3 +39,9 @@ Update 10/08/2020 -> reduced the memory space from O(N) to O(1). \
 10/08/2020 \
 Boyer-Moore Voting Algorithm. \
 [Solution c++](C++/169-majority-element.cpp)
+
+## 274. H-Index
+11/08/2020 \
+In the source file there are 2 solutions (Solution and Solution2). \
+The first one has O(N) time and O(N) space, and the second one has O(NlogN) time and O(1) space. \
+[Solution c++](C++/274-h-index.cpp)
