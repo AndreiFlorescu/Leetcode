@@ -126,3 +126,7 @@ The first one has O(N) time and O(N) space, and the second one has O(NlogN) time
 ## 119. Pascal's Triangle II
 12/08/2020 \
 [Solution c++](C++/119-pascals-triangle-ii.cpp)
+
+## 1286. Iterator for Combination
+13/08/2020 \
+[Solution c++](C++/1286-iterator-for-combination.cpp)
